@@ -164,4 +164,3 @@ This project is part of the Udemy course **“Machine Learning Projects for Heal
 
 ---
 
-This README provides you with detailed instructions and a clear overview of the project for easy setup and reproducibility. Happy coding!
